@@ -11,8 +11,10 @@ You can follow along with this [Colab notebook](https://colab.sandbox.google.com
 
 **Note:** Application saves audio file in .wav format inside phone's internal storage memory in Pitch Detector folder so anyone can compare results with colab notebook output. For this purpose and for this demo version of the application, writing internal storage permission is mandatory for app to work! 
 
-[Demo](https://youtu.be/v1d3o4r40PQ) of the project
+[Demo](https://youtu.be/v1d3o4r40PQ) of the project & <a href="https://farmaker47.medium.com/estimating-musical-scores-pitch-in-android-with-tensorflows-spice-model-4d712ded96f8">Explanation</a>
 
 **Screenshot**
 
 <img src="shot.jpg" width="256" height="540">
+
+
